@@ -21,3 +21,4 @@ elif a==6 or a==7:
 else:
     print("错误")
 print("白虎君君")
+print("this is a test from home")
